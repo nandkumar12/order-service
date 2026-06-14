@@ -1,0 +1,4 @@
+com\orderservice\handler\OrderHandler$ErrorResponse.class
+com\orderservice\handler\OrderProcessorHandler.class
+com\orderservice\model\Order.class
+com\orderservice\handler\OrderHandler.class
